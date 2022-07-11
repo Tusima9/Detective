@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/3_Scene/menu.unity
+    guid: 57e8f458ddd56e34eaedc350b562bdbb
+  - enabled: 1
+    path: Assets/3_Scene/BeforeGame.unity
+    guid: 551615da301d8f9479b1fdbff6eba74d
+  - enabled: 1
+    path: Assets/3_Scene/Game.unity
+    guid: 921b08f3fc6112242bed950008163a05
+  - enabled: 1
+    path: Assets/3_Scene/DetectiveWin.unity
+    guid: 93bb9bddedab4fd40b35805356dd5d26
+  - enabled: 1
+    path: Assets/3_Scene/KillerWin.unity
+    guid: 092f05ffdd546324599c12f73631c8b0
+  m_configObjects: {}

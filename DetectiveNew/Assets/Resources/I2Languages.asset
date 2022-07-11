@@ -1,0 +1,2383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Translation UI/Play_Button
+      TermType: 0
+      Description: 625278115840
+      Languages:
+      - "\u30B9\u30BF\u30FC\u30C8"
+      - Jouer
+      - Play
+      - Jugar
+      - Gioca
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Ranking_button
+      TermType: 0
+      Description: 8936383766528
+      Languages:
+      - "\u30E9\u30F3\u30AD\u30F3\u30B0"
+      - Classement
+      - Ranking
+      - Ranking
+      - Classifica
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Option_button
+      TermType: 0
+      Description: 9003937226752
+      Languages:
+      - "\u8A2D\u5B9A"
+      - Options
+      - Options
+      - Opciones
+      - Opzioni
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Quit_button
+      TermType: 0
+      Description: 9051802624000
+      Languages:
+      - "\u3084\u3081\u308B"
+      - Quitter
+      - Quit
+      - Salir
+      - Esci
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Option_menu_text
+      TermType: 0
+      Description: 12078575968256
+      Languages:
+      - "\u8A2D\u5B9A"
+      - Option
+      - Settings
+      - Opciones
+      - Opzioni
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Option_menu_button
+      TermType: 0
+      Description: 12146712436736
+      Languages:
+      - "\u623B\u308B"
+      - Retour
+      - Return
+      - Volver
+      - Indietro
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Ranking_text
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30E9\u30F3\u30AD\u30F3\u30B0"
+      - Rang
+      - Ranking
+      - Ranking
+      - Classifica
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Rank_n1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Clear No.1:'
+      - 'AAAA No.1:'
+      - 'Clear No.1:'
+      - 'AAAA No.1:'
+      - 'AAAA No.1:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Rank_n2
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Clear No.2:'
+      - 'AAAA No.2:'
+      - 'Clear No.2:'
+      - 'AAAA No.2:'
+      - 'AAAA No.2:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Rank_n3
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Clear No.3:'
+      - 'AAAA No.3:'
+      - 'Clear No.3:'
+      - 'AAAA No.3:'
+      - 'AAAA No.3:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Rank_n4
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Clear No.4:'
+      - 'AAAA No.4:'
+      - 'Clear No.4:'
+      - 'AAAA No.4:'
+      - 'AAAA No.4:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Rank_n5
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Clear No.5:'
+      - 'AAAA No.5:'
+      - 'Clear No.5:'
+      - 'AAAA No.5:'
+      - 'AAAA No.5:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Ranking_button_back
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u623B\u308B"
+      - Retour
+      - Return
+      - Volver
+      - Indietro
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Language_button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8A00\u8A9E"
+      - Langue
+      - Language
+      - Idioma
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Italian_button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30A4\u30BF\u30EA\u30A2\u30F3\u8A9E"
+      - Italien
+      - Italian
+      - Italiano
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/japanese_button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u65E5\u672C\u8A9E"
+      - Japonais
+      - Japanese
+      - Japones
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/english_button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82F1\u8A9E"
+      - Anglais
+      - English
+      - "Ingl\xE9s"
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/Spanish_button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B9\u30DA\u30A4\u30F3\u8A9E"
+      - Espagnol
+      - Spanish
+      - "Espa\xF1ol"
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Translation UI/French_button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30D5\u30E9\u30F3\u30B9\u8A9E"
+      - "Fran\xE7ais"
+      - French
+      - "Franc\xE9s"
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Help_1-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5BB9\u7591\u8005\u306F\u6BBA\u4EBA\u306E\u51F6\u5668\u3092\u5BB6\u306B\u96A0\u3057\u305F\u3089\u3057\u3044\u3002\n\u8907\u6570\u8A2D\u7F6E\u3055\u308C\u305F\u30C0\u30DF\u30FC\u306E\u4E2D\u304B\u3089\u60C5\u5831\u3092\u96C6\u3081\u3001\n\u63A8\u7406\u3057\u3066\u6BBA\u4EBA\u306E\u51F6\u5668\u3092\u66B4\u3053\u3046\u3002"
+      - "Le Suspect Semble Avoir Cach\xE9 L'arme Du Crime Dans Sa Maison.\nRecueillir
+        Des Informations \xC0 Partir De Plusieurs Mannequins Install\xE9s\nD\xE9duisons
+        Et D\xE9couvrons L'arme Du Crime."
+      - '"The suspect apparently hid the murder weapon in his house.
+
+        Gather
+        information from the multiple dummies set up.
+
+        Use your deductions
+        to uncover the murder weapon."'
+      - 
+      - "Il Sospetto Sembra Aver Nascosto L'arma Del Delitto Nella Sua Casa.\nRaccogli
+        Informazioni Da Pi\xF9 Manichini Installati\nDeduciamo E Scopriamo L'arma
+        Del Delitto."
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Help_1-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "1\u30BF\u30FC\u30F3\u306B\u4E00\u56DE\u30AA\u30EC\u30F3\u30B8\u306E\u63A2\u7D22\u30D1\u30CD\u30EB\u3092\u958B\u304F\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002\n\n\u96A0\u3055\u308C\u3066\u3044\u305F\u51F6\u5668\u3092\u30AF\u30EA\u30C3\u30AF\u3059\u308B\u3053\u3068\u3067\u5BB9\u7591\u8005\u306B\u5C0B\u554F\u304C\u3067\u304D\u307E\u3059\n\n\u5C0B\u554F\u306E\u60C5\u5831\u306F\u53F3\u4E0B\u306E\u672C\u306E\u30DE\u30FC\u30AF\u306E\u30ED\u30B0\u6B04\u306B\u683C\u7D0D\u3055\u308C\u307E\u3059\u3002\n\n\u30AF\u30EA\u30C3\u30AF\u3067\u6B21\u306B\u9032\u307F\u307E\u3059\u3002"
+      - "Vous Pouvez Ouvrir Le Panneau D'exploration Orange Une Fois Par Tour.\n\nVous
+        Pouvez Contre-Interroger Le Suspect En Cliquant Sur L'arme Cach\xE9e\n\nLes
+        Informations De Contre-Interrogatoire Sont Stock\xE9es Dans Le Champ Journal
+        Du Signet En Bas \xC0 Droite.\n\nCliquez Pour Passer Au Suivant."
+      - '"Once per turn, you can open the orange search panel.
+
+        
+
+        Click
+        on the hidden murder weapon to interrogate the suspect.
+
+        
+
+        The
+        information from the interrogation is stored in the log field marked by the
+        book in the lower right corner.
+
+        
+
+        Click to continue."'
+      - 
+      - 'Puoi Aprire Il Pannello Arancione Di Esplorazione Una Volta Per Turno.
+
+
+        Puoi
+        Interrogare Il Sospetto Facendo Clic Sull''arma Nascosta
+
+
+        Le Informazioni
+        Sull''esame Incrociato Sono Memorizzate Nel Campo Di Registro Del Segnalibro
+        In Basso A Destra.
+
+
+        Fare Clic Per Passare Al Successivo.'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Help_2-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u51F6\u5668\u306F\n\u8840\u306E\u4ED8\u3044\u305F\u30EC\u30F3\u30C1\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30EC\u30F3\u30C1\n\u8840\u306E\u4ED8\u3044\u305F\u30CA\u30A4\u30D5\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30CA\u30A4\u30D5\n\u8840\u306E\u4ED8\u3044\u305F\u9283\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u9283\n\u58CA\u308C\u3066\u8840\u306E\u4ED8\u3044\u305F\u82B1\u74F6\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u58CA\u308C\u305F\u82B1\u74F6\n\u58CA\u308C\u3066\u8840\u306E\u4ED8\u3044\u305F\u30B0\u30E9\u30B9\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u58CA\u308C\u305F\u30B0\u30E9\u30B9\n\u58CA\u308C\u3066\u8840\u306E\u4ED8\u3044\u305F\u30ED\u30FC\u30D7\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u58CA\u308C\u305F\u30ED\u30FC\u30D7\u3000\u3000\u3000\u3000\u306E12\u7A2E\u985E"
+      - "L'arme Est\nCl\xE9 \xC0 Molette\nCouteau Avec Du Sang Couteau\nPistolet
+        Avec Du Sang\nUn Vase Avec Du Sang Bris\xE9\nVerre Bris\xE9 Avec Du Sang
+        Dessus\nCorde Avec Du Sang Bris\xE9 12 Types De Corde Bris\xE9e"
+      - '"The murder weapon are
+
+        Wrench with blood on it Wrench
+
+        Bloody
+        knife Knife
+
+        A gun with blood on it A gun
+
+        Broken and bloody
+        vase. Broken vase.
+
+        A broken and bloody glass. A broken glass.
+
+        Broken
+        bloody rope, broken rope, 12 types of objects."'
+      - 
+      - "L'arma \xC8\nChiave Con Chiave Sanguinante\nColtello Con Sangue Coltello\nPistola
+        Con Sangue\nUn Vaso Con Sangue Spezzato\nVetro Rotto Con Sangue Su Di Esso\nCorda
+        Con Sangue Rotto 12 Tipi Di Corda Rotta"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Help_2-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8CEA\u554F\u3059\u308B\u3068\u304D\u306F\u305D\u306E\u6B66\u5668\u306E\u72B6\u614B(\u8840\u6FE1\u308C\u3001\u7834\u58CA)\u3001\u6B66\u5668\u306E\u7A2E\u985E\u3001\n\u540C\u3058\u90E8\u5C4B\u306B\u3042\u308B\u304B\u3001\u65E2\u306B\u767A\u898B\u3055\u308C\u305F\u304B\u3001\u4EE5\u4E0A\u304B\u3089\u4E00\u3064\u3060\u3051\u8CEA\u554F\u3067\u304D\u308B\u3002\n6\u30BF\u30FC\u30F3\u8CEA\u554F\u3059\u308B\u304B\u4E0B\u306E\u63A2\u7D22\u7D42\u4E86\u30DE\u30FC\u30AF\u3092\u62BC\u3059\u3053\u3068\u3067\u56DE\u7B54\u30D5\u30A7\u30FC\u30BA\u306B\u306A\u308B\n\n\u30AF\u30EA\u30C3\u30AF\u3067\u30B2\u30FC\u30E0\u30B9\u30BF\u30FC\u30C8"
+      - "Lorsque Vous Posez Une Question, L'\xE9tat De L'arme (Mouill\xE9 De Sang,
+        D\xE9truite), Le Type D'arme,\nVous Ne Pouvez Poser Qu'une Seule Question
+        Parmi Celles Ci-Dessus, Qu'elle Se Trouve Dans La M\xEAme Pi\xE8ce Ou Qu'elle
+        Ait D\xE9j\xE0 \xC9t\xE9 D\xE9couverte.\nEntrez Dans La Phase De R\xE9ponse
+        En Posant Une Question Pendant 6 Tours Ou En Appuyant Sur La Marque De Fin
+        De Recherche Ci-Dessous.\n\nCliquez Pour Commencer Le Jeu"
+      - '"When asking questions, you need to know the condition of the weapon (wet
+        with blood, destroyed), the type of weapon, whether it is in the same room,
+        whether it has already been found, and whether it is in the same room.
+
+        Is
+        it in the same room, has it already been found, and one of the above.
+
+        You
+        can ask a question for 6 turns or press the search end mark at the bottom
+        to enter the answer phase.
+
+
+        Click to start the game."'
+      - 
+      - "Quando Si Fa Una Domanda, Le Condizioni Dell'arma (Sangue Bagnato, Distrutta),
+        Il Tipo Di Arma,\nPuoi Porre Solo Una Domanda Tra Quelle Precedenti Se Si
+        Trova Nella Stessa Stanza O Se \xC8 Gi\xE0 Stata Scoperta.\nEntra Nella Fase
+        Di Risposta Ponendo Una Domanda Per 6 Turni O Premendo Il Segno Di Fine Ricerca
+        In Basso.\n\nFare Clic Per Avviare Il Gioco"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Turns_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - Turn 1
+      - Tour 1
+      - Turn 1
+      - 
+      - Giro 1
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/InIvPanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "Fact\uFF1A\u63A2\u5075\n\u51F6\u5668\u3092\u767A\u898B\u3057\u305F\uFF01\n\u5F97\u3089\u308C\u305F\u624B\u639B\u304B\u308A\u304B\u3089\u5C0B\u554F\u305B\u3088"
+      - "Fait : D\xE9tective\nJ'ai Trouv\xE9 Une Arme !\nContre-Interrogez \xC0 Partir
+        Des Indices Que Vous Obtenez"
+      - 'Turn 1
+
+        "Fact: Detective.
+
+        You have found the murder weapon!
+
+        Interrogate
+        the clues obtained."'
+      - 
+      - 'Fatto: Detective
+
+        Ho Trovato Un''arma!
+
+        Esamina Dagli Indizi
+        Che Ottieni'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Close_Button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9589\u3058\u308B"
+      - Fermer
+      - Close
+      - 
+      - Avvicinamento
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Question_Text-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "    Select\u6B66\u5668\u306F\u51F6\u5668\u3068\u540C\u3058\u8840\u306E\u4ED8\u304D\u65B9\u304B\uFF1F"
+      - "    L'arme S\xE9lectionn\xE9e A-T-Elle Le M\xEAme Sang Qu'une Arme\_?"
+      - Does the Select weapon have the same blood on it as the murder weapon?
+      - 
+      - "    L'arma Selezionata \xC8 Lo Stesso Sangue Di Un'arma?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Question_Text-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "    Select\u6B66\u5668\u306F\u51F6\u5668\u3068\u540C\u3058\u58CA\u308C\u65B9\u304B\uFF1F"
+      - "    L'arme S\xE9lectionn\xE9e Est-Elle De La M\xEAme Mani\xE8re Qu'une Arme\_?"
+      - Is the Select weapon broken the same way as the murder weapon?
+      - 
+      - "    L'arma Selezionata \xC8 Allo Stesso Modo Di Un'arma?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Question_Text-3
+      TermType: 0
+      Description: 
+      Languages:
+      - "    Select\u6B66\u5668\u3068\u51F6\u5668\u3068\u540C\u3058\u6B66\u5668\u304B\uFF1F"
+      - "    Est-Ce La M\xEAme Arme Que L'arme S\xE9lectionn\xE9e Et L'arme\_?"
+      - Is the select weapon the same weapon as the murder weapon?
+      - 
+      - "    \xC8 La Stessa Arma Dell'arma Selezionata E Dell'arma?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Question_Text-4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3000Select\u6B66\u5668\u306F\u51F6\u5668\u3068\u540C\u3058\u90E8\u5C4B\u304B\uFF1F"
+      - "L'arme S\xE9lectionn\xE9e Est-Elle Dans La M\xEAme Pi\xE8ce Que L'arme\_?"
+      - Is the select weapon in the same room as the murder weapon?
+      - 
+      - "L'arma Selezionata \xC8 Nella Stessa Stanza Dell'arma?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Question_Text-5
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u65E2\u306B\u898B\u3064\u304B\u3063\u3066\u3044\u308B\u8A3C\u62E0\u54C1\u304B\uFF1F"
+      - "    Est-Ce Une Preuve Qui A D\xE9j\xE0 \xC9t\xE9 Trouv\xE9e ?"
+      - Is it evidence already found?
+      - 
+      - "    \xC8 Una Prova Che \xC8 Gi\xE0 Stata Trovata?"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/InLogPanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "Fact\uFF1A\u63A2\u5075\n\u624B\u304C\u304B\u308A\u3068\u306A\u308B\u51F6\u5668\u3084\u5C0B\u554F\u306E\u60C5\u5831"
+      - "Fait : D\xE9tective\nInformations Sur Les Armes Et Contre-Interrogatoires
+        Pouvant Servir D'indices"
+      - 'Fact: Detective
+
+        Information about the murder weapon or interrogation
+        that provides a clue.'
+      - 
+      - 'Fatto: Detective
+
+        Informazioni Sulle Armi E Contro Interrogatori
+        Che Possono Essere Utilizzati Come Indizi'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/InLogPanel_Close_Button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9589\u3058\u308B"
+      - Fermer
+      - Close
+      - 
+      - Avvicinamento
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F1:"
+      - "Contre-Interrogatoire 1\_:"
+      - 'Interrogation 1:'
+      - 
+      - 'Controinterrogatorio 1:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F2:"
+      - "Contre-Interrogatoire 2\_:"
+      - 'Interrogation 2:'
+      - 
+      - 'Controinterrogatorio 2:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log-3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F3:"
+      - "Contre-Interrogatoire 3\_:"
+      - 'Interrogation 3:'
+      - 
+      - 'Controinterrogatorio 3:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log-4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F4:"
+      - "Contre-Interrogatoire 4\_:"
+      - 'Interrogation 4:'
+      - 
+      - 'Controinterrogatorio 4:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log-5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F5:"
+      - "Contre-Interrogatoire 5\_:"
+      - 'Interrogation 5:'
+      - 
+      - 'Controinterrogatorio 5:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log-6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F6:"
+      - "Contre-Interrogatoire 6\_:"
+      - 'Interrogation 6:'
+      - 
+      - 'Controinterrogatorio 6:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/RemovePanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3053\u306E\u5834\u6240\u3067\n\u51F6\u5668\u3092\u63A2\u3057\u307E\u3059\u304B\uFF1F"
+      - 'A Cet Endroit
+
+        Vous Cherchez Une Arme ?'
+      - Do you want to look for the murder weapon in this place?
+      - 
+      - 'In Questo Posto
+
+        Cerchi Un''arma?'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/RemovePanel_Exit
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u958B\u304F"
+      - '    Ouvert'
+      - Open
+      - 
+      - '    Aprire'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/RemovePanel_Close
+      TermType: 0
+      Description: 
+      Languages:
+      - " \uFF77\uFF6C\uFF9D\uFF7E\uFF99"
+      - ' Annuler'
+      - Cancel.
+      - 
+      - ' Annulla'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/ExaminationPanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u63A2\u7D22\u3092\u5207\u308A\u4E0A\u3052\n\u30B8\u30E3\u30C3\u30AF\u306B\u51F6\u5668\u3092\u7A81\u304D\u3064\u3051\u307E\u3059\u304B\uFF1F"
+      - 'Arrondir La Recherche
+
+        Voulez-Vous Frapper Jack Avec Une Arme ?'
+      - 'Would you like to abandon your search
+
+        and confront Jack with the
+        murder weapon?"'
+      - 
+      - 'Arrotonda La Ricerca
+
+        Vuoi Colpire Jack Con Un''arma?'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/ExaminationPanel_Yes
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u306F\u3044"
+      - '    Oui'
+      - Yes
+      - 
+      - "    S\xEC"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/ExaminationPanel_No
+      TermType: 0
+      Description: 
+      Languages:
+      - "   \u3044\u3044\u3048"
+      - '   Non'
+      - No.
+      - 
+      - '   No'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/ActivePanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "Fact\uFF1A\u63A2\u5075\n\u3053\u3053\u3092\u635C\u7D22\u3057\u307E\u3059\u304B\uFF1F\n\u635C\u7D22\u3059\u308B\u3068\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8\u3092\u4E00\u3064\u958B\u304D\u3001\n\u5C0B\u554F\u30D5\u30A7\u30FC\u30BA\u306B\u79FB\u884C\u3057\u307E\u3059"
+      - "Fait : D\xE9tective\nVoulez-Vous Chercher Ici\_?\nLorsque Vous Effectuez
+        Une Recherche, Vous Ouvrez Un Objet Et L'ouvrez.\nPasser \xC0 La Phase De
+        Contre-Interrogatoire"
+      - 'Fact: Detective.
+
+        Do you want to search here?
+
+        A search
+        will open one object then
+
+        Move to the interrogation phase.'
+      - 
+      - 'Fatto: Detective
+
+        Vuoi Cercare Qui?
+
+        Quando Cerchi, Apri
+        Un Oggetto E Lo Apri.
+
+        Passa Alla Fase Del Controinterrogatorio'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/ActivePanel_Open
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u958B\u304F"
+      - '    Ouvert'
+      - Open
+      - 
+      - '    Aprire'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/ActivePanel_Close
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3000\u3000\u9589\u3058\u308B"
+      - '  Fermer'
+      - Close.
+      - 
+      - '  Avvicinamento'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/TruePanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "\n\n\n\n\n\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30AF\u30EA\u30C3\u30AF\u3067\u6B21\u3078\u9032\u3080"
+      - "\n\n\n\n\n                          Cliquez Pour Passer Au Suivant"
+      - "\n\n\n\n\n\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Click
+        to continue "
+      - 
+      - '
+
+
+
+
+
+        Fare Clic Per Passare Al Successivo'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/TruePanel_Inv_h1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5BB9\u7591\u8005\u306F\u76EE\u3092\u9038\u3089\u3057\u305F..."
+      - "Le Suspect A D\xE9tourn\xE9 Le Regard..."
+      - The suspect looks away...
+      - 
+      - Il Sospetto Ha Distolto Lo Sguardo...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/TruePanel_Inv_h2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8868\u60C5\u306B\u7126\u308A\u304C\u898B\u3048\u308B\n\u3069\u3046\u3084\u3089\u6210\u529F\u3057\u305F\u3088\u3046\u3060..."
+      - "Je Peux Voir L'impatience Dans Mon Expression Faciale\nApparemment C'est
+        R\xE9ussi..."
+      - 'I can see the impatience in his face.
+
+        Looks like he made it...'
+      - 
+      - 'Riesco A Vedere L''impazienza Nella Mia Espressione Facciale
+
+        A
+        Quanto Pare Ha Avuto Successo...'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/FalsePanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "\n\n\n\n\n\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u30AF\u30EA\u30C3\u30AF\u3067\u6B21\u3078\u9032\u3080"
+      - "\n\n\n\n\n                          Cliquez Pour Passer Au Suivant"
+      - "\n\n\n\n\n\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000Click
+        to continue."
+      - 
+      - '
+
+
+
+
+
+        Fare Clic Per Passare Al Successivo'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/FalsePanel_Inv_h1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5BB9\u7591\u8005\u306F\u7B11\u3063\u3066\u3044\u308B..."
+      - Le Suspect Rigole...
+      - Suspect is smiling...
+      - 
+      - Il Sospetto Ride...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/FalsePanel_Inv_h2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8868\u60C5\u304B\u3089\u4F55\u3082\u8AAD\u307F\u53D6\u308C\u306A\u3044\n\u3069\u3046\u3084\u3089\u9055\u3046\u3088\u3046\u3060..."
+      - "Je Ne Peux Rien Lire De Mon Expression Faciale\nApparemment Diff\xE9rent..."
+      - 'I can''t read anything in his expression.
+
+        Apparently not...'
+      - 
+      - 'Non Riesco A Leggere Nulla Dalla Mia Espressione Facciale
+
+        Apparentemente
+        Diverso...'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/AnswerCanvas_ChoosePanel_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - "Fact\uFF1A\u63A2\u5075\n\u51F6\u5668\u3092\u66B4\u3044\u3066\u4E8B\u4EF6\u3092\u89E3\u6C7A\u305B\u3088"
+      - "Fait : D\xE9tective\nD\xE9couvrez L'arme Et R\xE9solvez L'affaire"
+      - 'Fact: Detective.
+
+        Uncover the murder weapon and solve the case.'
+      - 
+      - 'Fatto: Detective
+
+        Scopri L''arma E Risolvi Il Caso'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/AnswerCanvas_ChoosePanel_Log
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u30ED\u30B0"
+      - '    Journal'
+      - Log
+      - 
+      - '    Tronco D''albero'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/AnswerCanvas_ChoosePanel_Roomcheck
+      TermType: 0
+      Description: 
+      Languages:
+      - " \u90E8\u5C4B\u3092\u78BA\u8A8D\u3059\u308B"
+      - " V\xE9rifiez La Chambre"
+      - Check the room.
+      - 
+      - ' Controlla La Stanza'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/WinPanel_Text-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u52DD\u5229\uFF01"
+      - La Victoire!
+      - Victory!
+      - 
+      - Vittoria!
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/WinPanel_Text-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u63A2\u5075\u306E\u52DD\u5229\u3067\u3059\n\u30AF\u30EA\u30A2\u30BF\u30A4\u30E0\uFF1A"
+      - "Victoire D\xE9tective\nTemps Clair\_:"
+      - 'The detective wins.
+
+        Clear time:'
+      - 
+      - 'Vittoria Del Detective
+
+        Tempo Libero:'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/WinPanel_Button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6B21\u3078\u9032\u3080"
+      - Passez Au Suivant
+      - Proceed to next.
+      - 
+      - Procedi Con Il Prossimo
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/LoosePanel_Text-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6557\u5317..."
+      - "D\xE9faite..."
+      - Defeat...
+      - 
+      - Sconfitta...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/LoosePanel_Text-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u72AF\u4EBA\u306E\u52DD\u5229\u3067\u3059..."
+      - La Victoire Du Criminel...
+      - The culprit wins...
+      - 
+      - La Vittoria Del Criminale...
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/LoosePanel_Button
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6B21\u3078\u9032\u3080"
+      - Passez Au Suivant
+      - Next
+      - 
+      - Procedi Con Il Prossimo
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/SettingMenu_Text
+      TermType: 0
+      Description: 
+      Languages:
+      - Setting Menu
+      - "Menu De R\xE9glage"
+      - Setting Menu
+      - 
+      - Menu Di Impostazione
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/SettingMenu_Help
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u30D8\u30EB\u30D7"
+      - '    Aider'
+      - Help
+      - 
+      - '    Aiuto'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/SettingMenu_BackMenu
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u30E1\u30CB\u30E5\u30FC"
+      - '    Menu'
+      - Menu
+      - 
+      - "    Men\xF9"
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/SettingMenu_Exit
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u7D42\u4E86"
+      - '    Fin'
+      - Exit
+      - 
+      - '    Fine'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/SettingMenu_Close
+      TermType: 0
+      Description: 
+      Languages:
+      - "    \u9589\u3058\u308B"
+      - '    Fermer'
+      - Close
+      - 
+      - '    Avvicinamento'
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8840\u306E\u4ED8\u3044\u305F\u30EC\u30F3\u30C1"
+      - "Cl\xE9 \xE0 molette"
+      - Wrench with blood
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8840\u306E\u4ED8\u3044\u305F\u30CA\u30A4\u30D5"
+      - Couteau avec du sang dessus
+      - Knife with blood
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8840\u306E\u4ED8\u3044\u305F\u9283"
+      - "Pistolet tach\xE9 de sang"
+      - Gun with blood
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u58CA\u308C\u3066\u8840\u306E\u4ED8\u3044\u305F\u82B1\u74F6"
+      - "Vase bris\xE9 et sanglant"
+      - Broken and bloody vase
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u58CA\u308C\u3066\u8840\u306E\u4ED8\u3044\u305F\u30B0\u30E9\u30B9"
+      - "Verre bris\xE9 et sanglant"
+      - Broken and bloody glass
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u58CA\u308C\u3066\u8840\u306E\u4ED8\u3044\u305F\u30ED\u30FC\u30D7"
+      - "Corde bris\xE9e et sanglante"
+      - Broken and bloody rope
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30EC\u30F3\u30C1"
+      - "Cl\xE9 \xE0 molette"
+      - Wrench
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30CA\u30A4\u30D5"
+      - Couteau
+      - Knife
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9283"
+      - Pistolet
+      - Gun
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u58CA\u308C\u305F\u82B1\u74F6"
+      - "Vase bris\xE9"
+      - Broken vase
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u58CA\u308C\u305F\u30B0\u30E9\u30B9"
+      - "Verre bris\xE9"
+      - Broken glass
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Weapon_12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u58CA\u308C\u305F\u30ED\u30FC\u30D7"
+      - "Corde cass\xE9e"
+      - Broken rope
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C0B\u554F"
+      - Interrogatoire
+      - Interrogation
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u767A\u898B \u6210\u529F"
+      - "Succ\xE8s de la d\xE9couverte"
+      - Discovery Success
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u767A\u898B \u5931\u6557"
+      - "\xC9chec de la d\xE9couverte"
+      - Discovery Failure
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u90E8\u5C4B \u5931\u6557"
+      - "Chambre. \xC9chec."
+      - Room Failure
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u90E8\u5C4B \u6210\u529F"
+      - "Chambre. Succ\xE8s."
+      - Room. Success.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u51F6\u5668 \u6210\u529F"
+      - "Arme. Succ\xE8s."
+      - Weapon Success
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u51F6\u5668 \u5931\u6557"
+      - "Arme du crime. \xC9chec."
+      - Weapon Failure
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7834\u58CA \u6210\u529F"
+      - "Destruction. Succ\xE8s."
+      - Destruction. Success.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7834\u58CA \u5931\u6557"
+      - "Destruction. \xC9chec."
+      - Destruction, failure.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8840\u6FE1\u308C \u5931\u6557"
+      - "Mouill\xE9 de sang. \xC9chec."
+      - Wet blood. Failure.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Game/Log_Text-11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8840\u6FE1\u308C \u6210\u529F"
+      - "Mouill\xE9 de sang. Succ\xE8s."
+      - Wet with blood. Success.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u30CF\u30A1\u2026\u2026\u30CF\u30A1\u2026\u2026\u300D"
+      - 
+      - '"huh ...... huh ......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3053\u3053\u304C\u2026\u2026\u4E8B\u4EF6\u73FE\u5834\u2026\u2026\u300D"
+      - 
+      - '"This is ......  the crime scene ......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4ED6\u3068\u306F\u3069\u3053\u304B\u9055\u3046\u3001\u72EC\u7279\u306A\u96F0\u56F2\u6C17\u3002"
+      - 
+      - The atmosphere is somehow different and unique compared to the rest of the
+        city.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6A2A\u5439\u304F\u98A8\u304C\u3001\u3069\u3053\u304B\u3089\u304B\u3001\u4F55\u304B\u3092\u3053\u3053\u3078\u904B\u3093\u3067\u304F\u308B\u3002"
+      - 
+      - There is a wind blowing sideways, bringing something hither, from somewhere.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3008\u30C8\u30BF\u3001\u30C8\u30BF\u3001\u30C8\u30BF\u3001\u30C8\u30BF\u3009\u9769\u9774\u3067\u3086\u3063\u304F\u308A\u6B69\u3044\u3066\u3044\u308B"
+      - 
+      - '[clomp,clomp,clomp,clomp] Slowly walking in leather shoes.'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC: \u300C\u3084\u3063\u3068\u6765\u305F\u304B\u3001\u52A9\u624B\u541B\u300D"
+      - 
+      - "Oliver: \"At last, my assistant.\"\r"
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u306F\u3044\u3063\uFF01\u3000\u304A\u5F85\u305F\u305B\u3057\u3066\u3059\u307F\u307E\u305B\u3093\u300D"
+      - 
+      - "\"Yes!\u3000Sorry to keep you waiting.\""
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3042\u306E\u2026\u2026\u4ECA\u56DE\u306F\u3069\u3046\u3044\u3063\u305F\u4E8B\u4EF6\u306A\u306E\u3067\u3059\u304B\uFF1F\u300D"
+      - 
+      - '"Um, ...... what''s the case this time?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC: \u300C\u635C\u67FB\u306E\u5185\u5BB9\u306F\u3057\u3063\u304B\u308A\u982D\u306B\u5165\u308C\u3066\u3044\u308B\u306A\u300D"
+      - 
+      - 'Oliver: "You have the details of the investigation in your head?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/Start_knot_10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u306F\u3044\u3063\uFF01\u300D"
+      - 
+      - '"Yes!"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/A_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/A_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u305D\u3093\u306A\u304B\u3057\u3053\u307E\u3089\u306A\u304F\u3066\u3044\u3044\u300D"
+      - 
+      - '"You don''t have to be so formal."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/B_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/B_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u307E\u3041\u3001\u3044\u3044\u3002\u5F8C\u3067\u8AAC\u660E\u3059\u308B\u300D"
+      - 
+      - 'Oliver: "Well, whatever. I''ll explain later."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/C_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/C_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u9045\u304B\u3063\u305F\u3088\u3046\u3060\u306A\u3002\u30AA\u30EA\u30F4\u30A1\u30FC\u300D"
+      - 
+      - 'Jack: "Looks like you''re late. Oliver."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/C_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u305D\u3044\u3064\u306F\u8AB0\u3060\u300D"
+      - 
+      - '"Who is that guy?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/C_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u52A9\u624B\u3060\u3002\u7D20\u4EBA\u3060\u304C\u3001\u305D\u3053\u3089\u306E\u30D7\u30ED\u3088\u308A\u306F\u30DE\u30B7\u3060\u300D"
+      - 
+      - '"He''s my assistant. He''s an amateur, but he''s better than some of the
+        professionals around here."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/C_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u306F\u2026\u2026\u521D\u3081\u307E\u3057\u3066\u300D"
+      - 
+      - '" Ni...,Nice to meet you."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u656C\u8A9E\u306F\u4F7F\u3046\u306A\u3002\u3053\u3044\u3064\u304C\u4ECA\u56DE\u306E\u72AF\u4EBA\u3060\u300D"
+      - 
+      - 'Oliver: "Don''t use honorifics. This is our main suspect."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u6C7A\u3081\u3064\u3051\u306A\u3044\u3067\u304F\u308C\u3001\u307E\u3060\u8A3C\u62E0\u306F\u63B4\u3093\u3067\u3044\u306A\u3044\u3093\u3060\u308D\u3046\u300D"
+      - 
+      - 'Jack: "Don''t be so presumptuous. You don''t have any proof yet."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u4F55\u4EBA\u3082\u306E\u4EBA\u304C\u3053\u306E\u5834\u6240\u3067\u59FF\u3092\u6D88\u3057\u3001\u305D\u306E\u5F8C\u907A\u4F53\u3068\u3057\u3066\u767A\u898B\u3055\u308C\u3066\u3044\u308B\u300D"
+      - 
+      - 'Oliver: "A bunch of people have disappeared from this place, and then been
+        found dead.'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u5831\u9053\u3067\u3082\u6D41\u308C\u3066\u3044\u308B\u9023\u7D9A\u6BBA\u4EBA\u4E8B\u4EF6\u306E\u72AF\u4EBA\u3001\u304A\u524D\u306E\u30CD\u30BF\u306F\u307B\u3068\u3093\u3069\u3042\u304C\u3063\u3066\u3044\u308B\u3093\u3060\u300D"
+      - 
+      - "\"The serial killer who's been all over the news, your story is almost out
+        there.\"\r"
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u305D\u3046\u304B\u3001\u305D\u308C\u306A\u3089\u7CBE\u3005\u8A3C\u62E0\u54C1\u63A2\u3057\u306B\u52B1\u3080\u3068\u3044\u3044\u300D"
+      - 
+      - 'Jack: "Well, then I suggest you work as hard as you can to find the evidence."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u884C\u304F\u305E\u52A9\u624B\u541B\u300D"
+      - 
+      - 'Oliver: "Let''s go, assistant."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/D_Branch_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u306F\u3044\uFF01\u300D"
+      - 
+      - '"Yes!"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u3053\u3053\u306F\u5BA2\u9593\u3060\u300D"
+      - 
+      - 'Jack: "This is the guest room."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u6696\u7089\u3068\u3001\u30C1\u30A7\u30B9\u306E\u30B3\u30DE\u2026\u2026\u3002\u3053\u306E\u8096\u50CF\u753B\u306F\u8AB0\u3060\uFF1F\u300D"
+      - 
+      - 'Oliver: " A fireplace and a chess board ....... Who is this portrait?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u7121\u8AD6\u3002\u79C1\u3060\u300D"
+      - 
+      - 'Jack: "Of course. It''s me."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u2026\u2026\u52A9\u624B\u541B\u3002\u541B\u306F\u3069\u3053\u304C\u602A\u3057\u3044\u3068\u601D\u3046\uFF1F\u300D"
+      - 
+      - Oliver:"...... assistant. What do you find suspicious?"
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3048\u2026\u2026\u3063\u3068\u300D"
+      - 
+      - '"Well, ........."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/E_Branch_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u68DA\u3084\u3001\u8096\u50CF\u753B\u306E\u88CF\u3068\u304B\u3067\u3057\u3087\u3046\u304B\uFF1F\u300D"
+      - 
+      - Perhaps the shelf or the back of the portrait?
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u534A\u5206\u6B63\u89E3\u3060\u300D"
+      - 
+      - 'Oliver: "You''re half right."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u6B8B\u308B\u306F\u6905\u5B50\u306E\u88CF\u3084\u30AB\u30FC\u30DA\u30C3\u30C8\u306E\u4E0B\u3001\u4F55\u98DF\u308F\u306C\u9854\u3067\u898B\u3048\u3084\u3059\u3044\u5834\u6240\u306B\u7F6E\u3044\u3066\u3042\u308B\u3053\u3068\u3082\u3042\u308B\u300D"
+      - 
+      - '"The residue can be found behind chairs, under carpets, and in other places
+        where it can easily slip out of sight without a second thought."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u5168\u4F53\u3092\u898B\u3066\u3001\u76EE\u306E\u3044\u304B\u306A\u3044\u5834\u6240\u3092\u63A2\u3057\u3066\u307F\u308B\u3068\u3044\u3044\u300D"
+      - 
+      - '"You have to look at the whole picture and try to find the places where
+        the eye can''t see."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u308F\u304B\u308A\u307E\u3057\u305F\uFF01\u300D"
+      - 
+      - '"Okay!"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u3053\u3053\u306F\u8A3A\u5BDF\u5BA4\u3002\u79C1\u306E\u4ED5\u4E8B\u5834\u3060\u300D"
+      - 
+      - 'Jack: "This is the examination room. This is where I work."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4ECA\u306F\u533B\u8005\u3092\u3057\u3066\u3044\u308B\u3093\u3060\u3063\u3066\u306A"
+      - 
+      - '"I hear you''re a doctor now."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4ED5\u4E8B\u90E8\u5C4B\u3068\u8003\u3048\u308C\u3070\u305D\u3053\u307E\u3067\u9055\u548C\u611F\u306F\u306A\u3044\u304C"
+      - 
+      - '"If you think of it as a workroom, it''s not that strange, but..."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3053\u3053\u306B\u306F\u85AC\u54C1\u306A\u3069\u3082\u3042\u308B\u3060\u308D\u3046"
+      - 
+      - '"There would be chemicals, etc. here."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/G_Branch_9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u8A3A\u5BDF\u5BA4\u306B\u3057\u3066\u306F\u3001\u30D9\u30C3\u30C9\u304C\u898B\u5F53\u305F\u308A\u307E\u305B\u3093\u304C\u2026\u2026\u300D"
+      - 
+      - '"I don''t see any beds for an examination room. ......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u30D5\u30C3\u2026\u2026\u3002\u4F55\u3082\u30D9\u30C3\u30C9\u304C\u3042\u308B\u304B\u3089\u8A3A\u5BDF\u5BA4\u3068\u3044\u3046\u308F\u3051\u3067\u3082\u306A\u3044\u3060\u308D\u3046\u300D"
+      - 
+      - '"just because there is no bed doesn''t mean that it''s not a examination
+        room"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3057\u304B\u3057\u3001\u826F\u3044\u76EE\u3092\u3057\u3066\u3044\u308B\u300D"
+      - 
+      - '"But you have good eyes."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u79C1\u306F\u57FA\u672C\u3001\u75C5\u540D\u3092\u8ABF\u3079\u3001\u75C5\u306B\u3042\u3063\u305F\u85AC\u3092\u8ABF\u5408\u3057\u6E21\u3057\u3066\u3044\u308B\u3060\u3051\u3060\u300D"
+      - 
+      - '"I basically just look up the name of the disease, mix the right medicine
+        for it, and give it to the patient."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u30E1\u30B9\u306A\u3069\u3082\u7121\u304F\u306F\u306A\u3044\u304C\u3001\u307B\u3068\u3093\u3069\u4F7F\u3046\u6A5F\u4F1A\u306F\u306A\u3044\u300D"
+      - 
+      - '"I have a scalpel and a few other things, but I barely ever use them."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u3053\u3053\u306F\u5BDD\u5BA4\u3060\u300D"
+      - 
+      - 'Jack: "This is a bedroom."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/J_Branch_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u307B\u3068\u3093\u3069\u3001\u4F55\u3082\u306A\u3044\u2026\u2026\uFF1F\u300D"
+      - 
+      - '"there''''s almost nothing here ......?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/K_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/K_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u5BDD\u308B\u305F\u3081\u306E\u5834\u6240\u3060\u3002\u4F55\u3082\u554F\u984C\u306F\u306A\u3044\u3060\u308D\u3046\u300D"
+      - 
+      - 'Jack: "It''s a place to sleep. What''s wrong with nothing here?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/K_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u305D\u3046\u3060\u3001\u307E\u305A\u7591\u554F\u306B\u601D\u3046\u3053\u3068\u3002\u305D\u308C\u304C\u4E00\u756A\u5927\u5207\u3060\u3002\u300D"
+      - 
+      - 'Oliver: " Yeah, you have to doubt first. That''s the most important thing."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/K_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u4E00\u3064\u3082\u7591\u554F\u3092\u611F\u3058\u306A\u3044\u90E8\u5C4B\u306A\u3069\u306A\u3044\u3002\u3082\u3057\u305D\u3093\u306A\u90E8\u5C4B\u304C\u3042\u3063\u305F\u3089\u3001\u305D\u3053\u3053\u305D\u672C\u5F53\u306E\u72AF\u884C\u73FE\u5834\u3060\u300D"
+      - 
+      - '"There is no room where you don''t have questions. If there was such a room,
+        that would be the real crime scene."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/K_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u3053\u3053\u304C\u66F8\u658E\u3002\u3053\u308C\u3067\u6700\u5F8C\u3060\u300D"
+      - 
+      - 'Jack: "This is the study. This is the last one."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/K_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3053\u3093\u306A\u306B\u6CA2\u5C71\u306E\u672C\u2026\u2026\u300D"
+      - 
+      - '"So many books ......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/L_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/L_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u5B66\u9662\u306E\u9803\u304B\u3089\u304A\u524D\u306F\u5E38\u306B\u672C\u3092\u8AAD\u3093\u3067\u3044\u305F\u3063\u3051\u306A\u300D"
+      - 
+      - 'Oliver: "I recall you were always reading, even back in the academy."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/L_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u4ECA\u3082\u305D\u3046\u3060\u304C\u3001\u3088\u304F\u308F\u304B\u3089\u306A\u3044\u884C\u52D5\u3092\u3057\u3066\u3044\u305F\u300D"
+      - 
+      - '"You still do, but you act like you don''t fully understand."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/L_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u304A\u4E8C\u4EBA\u306F\u304A\u77E5\u308A\u5408\u3044\u3060\u3063\u305F\u3093\u3067\u3059\u304B\uFF1F\u300D"
+      - 
+      - '"Did you two know each other?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u77E5\u308A\u5408\u3044\u3068\u3044\u3046\u307B\u3069\u3067\u3082\u306A\u3044\u3002\u305F\u3060\u901A\u3063\u3066\u3044\u305F\u5B66\u9662\u304C\u540C\u3058\u3063\u3066\u3060\u3051\u3060\u300D"
+      - 
+      - 'Oliver: " I wouldn''t go so far as to say that we were acquaintances. We
+        just went to the same institute.'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u8A71\u3057\u305F\u3053\u3068\u3082\u305D\u3046\u306A\u304B\u3063\u305F\u306F\u305A\u3060\u300D"
+      - 
+      - I don't think we ever spoke."
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u2026\u2026\u300D"
+      - 
+      - 'Jack: "......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u306A\u3093\u3060\u308D\u3046\u3002"
+      - 
+      - I wonder.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3084\u3051\u306B\u305A\u3063\u3068\u30AA\u30EA\u30F4\u30A1\u30FC\u3055\u3093\u3092\u898B\u3066\u3044\u308B\u3002"
+      - 
+      - You're looking at Mr. Oliver all the time.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/M_Branch_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3053\u306E\u4EBA\u306F\u4F55\u304B\u3001\u30AA\u30EA\u30F4\u30A1\u30FC\u3055\u3093\u306B\u601D\u3063\u3066\u3044\u308B\u3053\u3068\u304C\u3042\u308B\u306E\u3060\u308D\u3046\u304B\u3002"
+      - 
+      - I wonder what this person is thinking of Mr. Oliver.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u3055\u3066\u3001\u3053\u308C\u3067\u3059\u3079\u3066\u306E\u90E8\u5C4B\u306F\u5468\u3063\u305F\u3002\u3042\u3068\u306F\u597D\u304D\u306B\u63A2\u3059\u3068\u3044\u3044\u300D"
+      - 
+      - 'Jack: "Well, now you''ve circled all the rooms. You can search the rest
+        as you wish."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u5BA2\u9593\u3001\u8A3A\u5BDF\u5BA4\u3001\u5BDD\u5BA4\u3001\u305D\u3057\u3066\u2026\u2026\u66F8\u658E\u300D"
+      - 
+      - 'Oliver: "Guest room, examination room, bedroom, and the study...'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3053\u306E\u90E8\u5C4B\u306E\u3069\u3053\u304B\u306B\u3001\u5931\u8E2A\u4E8B\u4EF6\u89E3\u6C7A\u306E\u30AB\u30AE\u304C\u3042\u308B\u306F\u305A\u3060\u300D"
+      - 
+      - Somewhere in one of these rooms should be the key to solving the mystery.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u5148\u307B\u3069\u898B\u3066\u304D\u305F\u56DB\u3064\u306E\u90E8\u5C4B\u306B\u306F\u3044\u304F\u3064\u304B\u306E\u602A\u3057\u3044\u3082\u306E\u304C\u3042\u3063\u305F\u300D"
+      - 
+      - '"In the four rooms we just looked at, there are a number of suspicious items.'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u305D\u306E\u4E2D\u304B\u3089\u4E00\u3064\u9078\u3073\u3001\u79C1\u306E\u5143\u306B\u6301\u3063\u3066\u304D\u3066\u304F\u308C\u300D"
+      - 
+      - '"I want you to pick one of them and bring it to me.'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u76F4\u63A5\u306E\u8A3C\u62E0\u3067\u306A\u304F\u3066\u3082\u3044\u3044\u3001\u602A\u3057\u3044\u3068\u601D\u3063\u305F\u3082\u306E\u3001\u8A3C\u62E0\u306B\u3064\u306A\u304C\u308B\u3082\u306E\u3092\u63A2\u3057\u3066\u304F\u308C\u300D"
+      - 
+      - "It doesn't have to be direct evidence. Look for anything that looks suspicious
+        or leads to evidence.\r"
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u308F\u304B\u3089\u306A\u3044\u3053\u3068\u304C\u3042\u308C\u3070\u3001\u306A\u3093\u3067\u3082\u805E\u3044\u3066\u304F\u308C\u3066\u69CB\u308F\u306A\u3044\u3002\u983C\u3093\u3060\u305E\u300D"
+      - 
+      - "If there is anything you don't understand, you can ask me anything. I'm
+        counting on you.\"\r"
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u79C1\u306F\u898B\u7269\u3067\u3082\u3057\u3066\u3044\u307E\u3059\u304B\u300D"
+      - 
+      - 'ack: "I''ll just be looking around"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Story/N_Branch_9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u9811\u5F35\u3063\u3066\u304F\u3060\u3055\u3044\u63A2\u5075\u3001\u305D\u308C\u3068\u3001\u52A9\u624B\u306E\u541B\u3082\u300D"
+      - 
+      - 'Jack: "Good luck, detective, and you, too assistant."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u8A3C\u62E0\u306F\u898B\u3064\u3051\u305F\u3002\u3053\u308C\u3067\u304A\u524D\u306E\u60AA\u4E8B\u306F\u66B4\u304B\u308C\u308B\u300D"
+      - 
+      - 'Oliver: "I found the evidence. Now your evil will be exposed."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u2026\u2026\u300D"
+      - 
+      - 'Jack: "......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u306A\u3041\u3001\u30B8\u30E3\u30C3\u30AF\u306F\u4F55\u304C\u3057\u305F\u304B\u3063\u305F\u3093\u3060\uFF1F\u300D"
+      - 
+      - 'Oliver: "Hey, what do you want to do Jack?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u30D5\u30C3\u2026\u2026\u3001\u305D\u308C\u306F\u6559\u3048\u3089\u308C\u306A\u3044\u306A\u300D"
+      - 
+      - 'Jack: "Hoo ......, I can''t tell you that."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u79C1\u3068\u304A\u524D\u3068\u3067\u306F\u4F4F\u3080\u4E16\u754C\u304C\u9055\u3046\u300D"
+      - 
+      - You and I live in different worlds."
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3055\u3089\u3070\u3060\u3001\u63A2\u5075\u3002\u307E\u305F\u3069\u3053\u304B\u3067\u4F1A\u3048\u308B\u3068\u3044\u3044\u306A\u300D"
+      - 
+      - 'Jack: "Farewell, Detective. Hope to see you again somewhere."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u30B8\u30E3\u30C3\u30AF\u306E\u8EAB\u67C4\u306F\u8B66\u5BDF\u306B\u5F15\u304D\u53D6\u3089\u308C\u3001\u305D\u306E\u5F8C\u306E\u8A73\u7D30\u306F\u805E\u304B\u3055\u308C\u306A\u304B\u3063\u305F\u3002"
+      - 
+      - 'Oliver:Jack was taken into police custody and no further details were given. '
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3053\u308C\u3067\u9023\u7D9A\u6BBA\u4EBA\u4E8B\u4EF6\u306F\u89E3\u6C7A\u3057\u305F"
+      - 
+      - This is the end of the serial killer case.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: DetectiveWinStory/start_knot_9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u3057\u304B\u3057\u3001\u30B8\u30E3\u30C3\u30AF\u306F\u672C\u5F53\u306B\u3001\u4F55\u3092\u3057\u305F\u304B\u3063\u305F\u306E\u3060\u308D\u3046\u304B\u2026\u2026"
+      - 
+      - But what  Jack did, was it really what he wanted to do......
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_1
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u898B\u3064\u3051\u305F\u3063\uFF01\u3000\u3053\u308C\u304C\u8A3C\u62E0\u3060\u300D"
+      - 
+      - "Oliver: \"I found it!\u3000Here's your proof.\""
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_2
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u30AA\u30EA\u30F4\u30A1\u30FC\u2026\u2026\u300D"
+      - 
+      - 'Jack: "Oliver......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_3
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3042\u306E\u9803\u306E\u304A\u524D\u306F\u3001\u3082\u3046\u3044\u306A\u3044\u300D"
+      - 
+      - '"The man you were back then is gone."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_4
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30AA\u30EA\u30F4\u30A1\u30FC:\u300C\u305D\u3001\u305D\u308C\u306F\u3069\u3046\u3044\u3046\u300D"
+      - 
+      - 'Oliver: "Well, what does that mean?"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_5
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u541B\u306E\u76EE\u3082\u3001\u3069\u3046\u3084\u3089\u7BC0\u7A74\u3060\u3063\u305F\u3088\u3046\u3060\u300D"
+      - 
+      - 'Jack: "It appears that your eyes were also blinded."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_6
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3048\u2026\u2026\u300D"
+      - 
+      - '"Eh ......"'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_7
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF:\u300C\u65E9\u304F\u305D\u308C\u3092\u3082\u3063\u3066\u79C1\u306E\u524D\u304B\u3089\u6D88\u3048\u3066\u304F\u308C\u300D"
+      - 
+      - 'Jack: "Now take that and get out of my sight."'
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_8
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u300C\u3082\u3046\u4E8C\u5EA6\u3068\u3001\u304A\u524D\u305F\u3061\u3068\u4F1A\u3046\u3053\u3068\u306F\u306A\u3044\u3060\u308D\u3046\u2026\u2026\u300D"
+      - 
+      - I'll never see any of you again. ......"
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_9
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u305D\u308C\u304B\u3089\u30AA\u30EA\u30F4\u30A1\u30FC\u306F\u8B66\u5BDF\u306B\u8A3C\u62E0\u54C1\u3092\u6301\u3063\u3066\u3044\u3063\u305F\u3068\u3053\u308D"
+      - 
+      - 'Then Oliver took the evidence to the police and '
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_10
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E8B\u4EF6\u3068\u306E\u95A2\u9023\u6027\u306F\u306A\u304B\u3063\u305F\u3002"
+      - 
+      - There was no connection to the case.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_11
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u518D\u3073\u73FE\u5834\u3078\u3068\u623B\u308B\u3082"
+      - 
+      - He returned to the scene of the crime again, but
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_12
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u305D\u3053\u306B\u306F\u4F55\u3082\u6B8B\u3055\u308C\u3066\u304A\u3089\u305A"
+      - 
+      - Nothing was left there and
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_13
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u30B8\u30E3\u30C3\u30AF\u3082\u59FF\u3092\u6D88\u3057\u3066\u3044\u305F\u3002"
+      - 
+      - 'Jack had also disappeared. '
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_14
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u305D\u308C\u4EE5\u964D\u3082\u884C\u65B9\u3092\u8FFD\u3063\u305F\u304C\u5B9B\u306F\u7121\u304F"
+      - 
+      - The search for him continued, but there was nothing to find
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: KillerWinStory/start_knot_15
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9023\u7D9A\u6BBA\u4EBA\u4E8B\u4EF6\u306F\u5E38\u3057\u3048\u306E\u95C7\u3078\u3068\u98F2\u307F\u8FBC\u307E\u308C\u3066\u3044\u3063\u305F\u3002"
+      - 
+      - The serial murders were swallowed up by the everlasting darkness.
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Japanese(ja)
+      Code: ja
+      Flags: 0
+    - Name: French(fr)
+      Code: fr-FR
+      Flags: 0
+    - Name: English(en)
+      Code: 
+      Flags: 0
+    - Name: Spanish(es)
+      Code: 
+      Flags: 0
+    - Name: italian(it)
+      Code: it-IT
+      Flags: 0
+    IgnoreDeviceLanguage: 1
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbzMVHYJTLE7nwf2C3o8y0YtukaM-X5OSznJZobSJg/exec
+    Google_SpreadsheetKey: 1_mdWxYedXk2-ssNYF2ZdYl4uKkByG7t9Vz84c6XydZs
+    Google_SpreadsheetName: I2Loc DetectiveNew Localization
+    Google_LastUpdatedVersion: 1657525310765
+    Google_Password: abinop184
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

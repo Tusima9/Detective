@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class DeployWeapon : MonoBehaviour
+{
+    [SerializeField]private GameObject[] Weapons=new GameObject[12];
+    private int[] Num = { 1, 2, 3, 4, 5, 6, 7, 8, 9 ,10,11,12};
+    void Start()
+    {
+        for(int i = 0; i < 32; i++)
+		{
+            Num[i] = i + 1;
+            print(Num[i]);
+		}
+    }
+    public void Deploy()
+	{
+
+        return ;
+	}
+}
